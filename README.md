@@ -95,7 +95,6 @@ Once you have a bunch of CSV files created via the learning, you can convert tho
 This will also spit out a bunch of loss and distance averages at the different parameters.
 
 ## Credits
-
 I'm grateful to the following people and the work they did that helped me learn how to do this:
 
 - Playing Atari with Deep Reinforcement Learning - http://arxiv.org/pdf/1312.5602.pdf
